@@ -1,1 +1,1 @@
-# maIncubyte-magento-signup-Automation
+# Incubyte-magento-signup-Automation
